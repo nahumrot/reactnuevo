@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navbar, Nav, Container, } from 'react-bootstrap'
-import {OutLet, Link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 
 export default function NavBar() {
   return (
@@ -17,10 +17,6 @@ export default function NavBar() {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-     
-    <section>
-      <OutLet></OutLet>
-    </section>
     </>
     
   )

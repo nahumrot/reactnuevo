@@ -1,5 +1,5 @@
 import React from 'react'
-import Item from './Item';
+import item from './Item.jsx'
 
 export default function ItemList({aux}) {
   return (
