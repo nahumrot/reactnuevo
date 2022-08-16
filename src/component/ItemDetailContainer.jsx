@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ItemDetail from '../component/ItemDetail';
-import imagen1 from '../imagenes/jbl'
+import imagen1 from '../../imagenes/jbl'
 
 const producto = [{
   id:1,
